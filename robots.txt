@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://junhokimapps.github.io/dayroad-support/sitemap.xml
