@@ -1,30 +1,50 @@
 Dayroad | Press copy | EN
 
 ONE LINE
-An iPhone focus timer that turns study, reading, and work into pixel-art drives, with Stamps to spend on a Home of your own.
+An iPhone focus timer for pixel-art drives, a personal Focus Journal, a Home to grow and customize, and time to unwind.
 
 SHORT INTRODUCTION
-Dayroad is an iPhone focus timer for making room to study, read, or work. Choose a duration and set off: a car travels through a pixel city while you stay with your task. Accumulated focus earns Stamps that you spend yourself to grow your Home.
+Dayroad brings pixel-art drives, a Focus Journal, and a growing Home together in an iPhone focus timer. Choose your task, make time for it, reflect on your habits, shape your own space, then take a cafe break.
 
 PRODUCT DESCRIPTION
-For moments when getting started feels difficult, another app pulls attention away, or reading and work need time of their own. Dayroad is an iPhone focus timer built around setting aside one session for the task at hand.
+Dayroad brings pixel-art drives, a Focus Journal, and a growing Home together in an iPhone focus timer. Choose your task, make time for it, reflect on your habits, shape your own space, then take a cafe break.
 
-Open the drive menu from Home, choose a duration, and set off. A car travels through a pixel city automatically while the timer runs, leaving the user free to study, read, or work without steering. Optional Focus Lock blocks selected apps and categories with Screen Time permission. Website blocking is not supported in version 1.0.
+For moments when starting feels difficult or another app pulls you away. Choose your task and duration; the car drives automatically while you study, read, or work. Choose a 10, 25, 45, or 60-minute preset, or set hours, minutes, and seconds. An activity name is optional. Focus Drive starts in automatic mode. Pause and resume the timer, and choose whether to show the remaining time. Focus Lock optionally blocks selected apps and categories with Screen Time permission. Website blocking is not supported. A Lock Screen Live Activity can show the remaining time, with a completion notification. Availability depends on device support, permission, and notification settings.
 
-After focusing, take a cafe break. Every 25 accumulated minutes of focus earns one Stamp. Save the number required for the next Home stage, then choose to spend them to unlock it. Home grows through 35 stages; upgrades are not automatic.
+Unlock the mailbox at Home stage 1 to open the Focus Journal. Move between Summary, Calendar, Analysis, and Log to reflect on time actually spent focusing. Review focus totals, trends, and comparisons by period. More details include completion rate, streaks, and badges for accumulated focus. Choose a calendar date to see its focus time and sessions. Change the date or period to revisit earlier records. Session lists and details distinguish the target, actual focus time, and completion status. Recording time and awarding Stamps follow separate rules.
 
-Side-on streets and a top-down driving view, clear days and rainy evenings, music and cafe breaks set the rhythm of focusing and unwinding. Visible Home progress is designed to give the next focus session a small goal to look forward to.
+Start with a name, or choose a saved activity. Organize time with activities and folders, then explore your own focus habits in Analysis. Folders support two levels. Parent totals include subfolders. Review focus time by folder or by activity. Save and reuse activity names, or choose from recent and favorite activities. Edit record names and categories, and filter by folder. Choose a period and folder to explore weekdays, time of day, and session lengths. Compare folder colors and inspect chart segments.
 
-LAUNCH RELEASE DRAFT / 2026-10-23
-Dayroad brings pixel-art drives to the focus timer
+Each 25 accumulated minutes of actual focus earns one Stamp. Remaining time carries into the next session. Save the required Stamps, then spend them yourself at Home. Completing Japan’s 35 Home stages sets its remaining Stamp balance and carried time to zero, ending further Stamp awards there. Actual focus time, session history, and badges continue to accumulate.
 
-Dayroad launched on the App Store on October 23, 2026. The iPhone focus timer turns study, reading, and work sessions into pixel-art drives. Users choose a duration and set off while a car travels automatically, with no steering to distract from the task at hand.
+From a small house to changing gardens and everyday scenes, Home develops through 35 stages. The mailbox opens at stage 1, car customization at 2, the avatar at 3, and the nameplate at 5. Choose your avatar’s gender, skin, hair, and outfit. Use unlocked options to make yourself part of the scenery. Choose a red or white car. Your selection appears at Home and on your drives. Enter a name for the plate outside your Home. The nameplate menu appears after its stage is unlocked.
 
-Cafe breaks follow focused time, and every 25 accumulated focus minutes earns one Stamp. Users save the required Stamps, then spend them to unlock the next of 35 Home stages. This visible progression is designed to offer a small goal for the next focus session.
+Focus starts with automatic driving. Separate driving controls let you choose automatic or manual control, speed, and Top or Side View. Set the time of day automatically or manually; choose clear or rainy weather manually. Adjust music, ambience, and effects; rest at the cafe or set off again. Avatar and dog routines at Home, and changes in the surrounding scenery, give focusing and unwinding a shared setting.
 
-Optional Focus Lock blocks selected apps and categories with Screen Time permission. Website blocking is not supported in version 1.0. Different driving views, weather, scenery, and music provide a backdrop for focusing and unwinding.
+Supports on-device saving, personal iCloud sync, and JSON export and restoration. Sync depends on your Apple account, iCloud, and network conditions. Keep separate backups of important records. Open the Travel Atlas from Home to explore the current Japan area. The available Focus Drive is set in Japan. Other area listings do not mean playable content; additional regions and purchase scope follow separate announcements. The app UI supports Korean, Japanese, and English. See the App Store for device compatibility.
 
-Free Drive stays free with no time limit and does not award focus rewards. Focus Drive, set against Japanese scenery, includes 75 cumulative minutes free, followed by a one-time Focus Drive Pass purchase for continued access. There is no subscription, auto-renewal, or automatic charge at the end of the trial. Local pricing and compatibility details are available on the App Store.
+Free Drive stays free, with no time limit. It does not award focus rewards. Try Focus Drive, set against Japanese scenery, for 75 cumulative minutes. After that, a one-time Focus Drive Pass purchase unlocks continued access. There is no subscription, auto-renewal, or automatic charge when the trial ends. The pass covers the current Japan-themed Focus Drive. Additional regions may be sold separately. Purchase restoration is available in the app.
+
+Visible records and a growing space are designed to make the next focus session feel like a small step forward.
+
+PRODUCT PRESS RELEASE
+Dayroad connects focused time with a personal record and a growing pixel-art world
+
+Dayroad is an iPhone focus timer for study, reading, and work. Released on the App Store on October 23, 2026, it brings pixel-art drives, a Focus Journal, Home growth, customization, and cafe breaks into one experience.
+
+Unlock the mailbox at Home stage 1 to open the Focus Journal. Move between Summary, Calendar, Analysis, and Log to reflect on time actually spent focusing. Folders support two levels. Parent totals include subfolders. Review focus time by folder or by activity. Save and reuse activity names, or choose from recent and favorite activities. Edit record names and categories, and filter by folder. Choose a period and folder to explore weekdays, time of day, and session lengths. Compare folder colors and inspect chart segments.
+
+Each 25 accumulated minutes of actual focus earns one Stamp. Remaining time carries into the next session. Save the required Stamps, then spend them yourself at Home. Completing Japan’s 35 Home stages sets its remaining Stamp balance and carried time to zero, ending further Stamp awards there. Actual focus time, session history, and badges continue to accumulate.
+
+From a small house to changing gardens and everyday scenes, Home develops through 35 stages. The mailbox opens at stage 1, car customization at 2, the avatar at 3, and the nameplate at 5. Choose your avatar’s gender, skin, hair, and outfit. Use unlocked options to make yourself part of the scenery. Choose a red or white car. Your selection appears at Home and on your drives. Enter a name for the plate outside your Home. The nameplate menu appears after its stage is unlocked.
+
+Focus starts with automatic driving. Separate driving controls let you choose automatic or manual control, speed, and Top or Side View. Set the time of day automatically or manually; choose clear or rainy weather manually. Adjust music, ambience, and effects; rest at the cafe or set off again. Avatar and dog routines at Home, and changes in the surrounding scenery, give focusing and unwinding a shared setting.
+
+Focus Lock optionally blocks selected apps and categories with Screen Time permission. Website blocking is not supported. A Lock Screen Live Activity can show the remaining time, with a completion notification. Availability depends on device support, permission, and notification settings.
+
+Free Drive stays free, with no time limit. It does not award focus rewards. Try Focus Drive, set against Japanese scenery, for 75 cumulative minutes. After that, a one-time Focus Drive Pass purchase unlocks continued access. There is no subscription, auto-renewal, or automatic charge when the trial ends. The pass covers the current Japan-themed Focus Drive. Additional regions may be sold separately. Purchase restoration is available in the app. Official App Store display checked October 29, 2026: KR ₩9,900 · JP ¥1,000 · US $6.99. Confirm the current local amount on the purchase screen.
+
+Supports on-device saving, personal iCloud sync, and JSON export and restoration. Sync depends on your Apple account, iCloud, and network conditions. Keep separate backups of important records.
 
 DEVELOPER
 Junho Kim
@@ -36,12 +56,32 @@ Focus timer for iPhone
 Korean · Japanese · English
 Free download · One-time in-app purchase
 
-Every 25 accumulated minutes of focus earns one Stamp. Save the Stamps needed for the next stage, then spend them to unlock it. From a small beginning through 35 stages, your Home becomes a visible trace of time well spent.
+From a small house to changing gardens and everyday scenes, Home develops through 35 stages. The mailbox opens at stage 1, car customization at 2, the avatar at 3, and the nameplate at 5.
+Each 25 accumulated minutes of actual focus earns one Stamp. Remaining time carries into the next session. Save the required Stamps, then spend them yourself at Home.
+Completing Japan’s 35 Home stages sets its remaining Stamp balance and carried time to zero, ending further Stamp awards there. Actual focus time, session history, and badges continue to accumulate.
 
 Free Drive stays free, with no time limit. It does not award focus rewards.
 Try Focus Drive, set against Japanese scenery, for 75 cumulative minutes. After that, a one-time Focus Drive Pass purchase unlocks continued access. There is no subscription, auto-renewal, or automatic charge when the trial ends.
-The pass covers the current Japan-themed Focus Drive. Future regions may be sold separately. Check the App Store for your current local price before purchasing.
+The pass covers the current Japan-themed Focus Drive. Additional regions may be sold separately. Purchase restoration is available in the app.
+Official App Store display checked October 29, 2026: KR ₩9,900 · JP ¥1,000 · US $6.99. Confirm the current local amount on the purchase screen.
 See the App Store for supported devices and compatibility details.
+
+Your focus time becomes your story.
+Unlock the mailbox at Home stage 1 to open the Focus Journal. Move between Summary, Calendar, Analysis, and Log to reflect on time actually spent focusing. Review focus totals, trends, and comparisons by period. More details include completion rate, streaks, and badges for accumulated focus. Choose a calendar date to see its focus time and sessions. Change the date or period to revisit earlier records. Session lists and details distinguish the target, actual focus time, and completion status. Recording time and awarding Stamps follow separate rules.
+
+Study or work. Organized your way.
+Start with a name, or choose a saved activity. Organize time with activities and folders, then explore your own focus habits in Analysis. Folders support two levels. Parent totals include subfolders. Review focus time by folder or by activity. Save and reuse activity names, or choose from recent and favorite activities. Edit record names and categories, and filter by folder. Choose a period and folder to explore weekdays, time of day, and session lengths. Compare folder colors and inspect chart segments.
+
+A Home with a little more of you.
+Customization opens as your Home grows. Once unlocked, use the familiar lower menu to choose the details that make the space your own. Choose your avatar’s gender, skin, hair, and outfit. Use unlocked options to make yourself part of the scenery. Choose a red or white car. Your selection appears at Home and on your drives. Enter a name for the plate outside your Home. The nameplate menu appears after its stage is unlocked.
+
+Keep your time. Find your next view.
+For the time you have accumulated and the space you have made. A guide to saving, backups, languages, and the places in Dayroad. Supports on-device saving, personal iCloud sync, and JSON export and restoration. Sync depends on your Apple account, iCloud, and network conditions. Keep separate backups of important records. Open the Travel Atlas from Home to explore the current Japan area. The available Focus Drive is set in Japan. Other area listings do not mean playable content; additional regions and purchase scope follow separate announcements. The app UI supports Korean, Japanese, and English. See the App Store for device compatibility.
+
+Focus starts with automatic driving. Separate driving controls let you choose automatic or manual control, speed, and Top or Side View. Set the time of day automatically or manually; choose clear or rainy weather manually.
+Adjust music, ambience, and effects; rest at the cafe or set off again. Avatar and dog routines at Home, and changes in the surrounding scenery, give focusing and unwinding a shared setting.
+Focus Lock optionally blocks selected apps and categories with Screen Time permission. Website blocking is not supported.
+A Lock Screen Live Activity can show the remaining time, with a completion notification. Availability depends on device support, permission, and notification settings.
 
 LINKS / PRESS
 App Store: https://apps.apple.com/app/id6821862731
@@ -50,3 +90,5 @@ Press: junhokim.apps@gmail.com
 
 MEDIA USE
 Use these materials in articles, reviews, videos, and blogs covering Dayroad. Please preserve the product name and avoid misleading edits. Suggested credit: Dayroad / Junho Kim. Standalone resale, reuse as assets for another product, and music extraction are not permitted. Contact us for other uses.
+UI comes from the actual app running in English. Scenery is shared; Focus Journal figures and activities are sample records. Do not present separate captures as one continuous session. WebP exports preserve source pixels with lossless compression.
+Edited promotional films for articles and reviews. Journal figures and activities are samples; some scenes combine real app footage with native menu footage. Do not describe these as App Store-approved App Previews.

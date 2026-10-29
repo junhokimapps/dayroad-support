@@ -4,6 +4,7 @@
     "language": "common",
     "bytes": 423196,
     "sha256": "edf57c4b483d979a816d3dbafccd54e4a7cc6c82283fa6e2f32f9b8e2f06f514",
+    "sample_data": false,
     "size": [
       1024,
       1024
@@ -13,13 +14,15 @@
     "file": "media/brand/dayroad-wordmark.svg",
     "language": "common",
     "bytes": 260,
-    "sha256": "19e7ad150e96c37c325b55e4061e42562b1e724e70d1663cc3d612c3f1e482be"
+    "sha256": "19e7ad150e96c37c325b55e4061e42562b1e724e70d1663cc3d612c3f1e482be",
+    "sample_data": false
   },
   {
     "file": "media/common/cafe.webp",
     "language": "common",
     "bytes": 648888,
     "sha256": "f19c5ab794f51f0f9186978c869dc8f1b96bafb54dfb60cd105ac5ff6e7fcca4",
+    "sample_data": false,
     "size": [
       1000,
       878
@@ -30,6 +33,7 @@
     "language": "common",
     "bytes": 459322,
     "sha256": "94955b69f317283680af9e411e34256f8532a6e3af29878fb19ef7c30523c769",
+    "sample_data": false,
     "size": [
       1280,
       534
@@ -40,6 +44,7 @@
     "language": "common",
     "bytes": 974096,
     "sha256": "23189720bc43f59bfb94fe8acedea29f9641d4341203f7519b7dc64c4300dde4",
+    "sample_data": false,
     "size": [
       1320,
       1112
@@ -50,6 +55,7 @@
     "language": "common",
     "bytes": 1066076,
     "sha256": "cf95d2ba9e7f789ee6d40ca1eac5051d723d2b1e6899ad0f3f57a26f2a7e10ca",
+    "sample_data": false,
     "size": [
       1320,
       1112
@@ -60,6 +66,7 @@
     "language": "common",
     "bytes": 878562,
     "sha256": "7923db3cc662e0d1515b2387b434023401f1c3bb400d0e4938e4c753c766de49",
+    "sample_data": false,
     "size": [
       1320,
       1112
@@ -70,6 +77,7 @@
     "language": "common",
     "bytes": 1590248,
     "sha256": "2bb8afc483a48e6cf22bbaddd3bc16b914a892395966c804d74bedce8aa1c252",
+    "sample_data": false,
     "size": [
       2610,
       1109
@@ -80,9 +88,32 @@
     "language": "common",
     "bytes": 1422324,
     "sha256": "8fed501230cb52b75fdfa424aae652c1d668a5e200de20ea0d73c599ed59131f",
+    "sample_data": false,
     "size": [
       959,
       1500
+    ]
+  },
+  {
+    "file": "media/screenshots/en/activity.webp",
+    "language": "en",
+    "bytes": 158636,
+    "sha256": "cddf72bd045b051b246bd4728b0938176bbc2115fde687ace5afc3b1b951e870",
+    "sample_data": true,
+    "size": [
+      1206,
+      2229
+    ]
+  },
+  {
+    "file": "media/screenshots/en/avatar.webp",
+    "language": "en",
+    "bytes": 730064,
+    "sha256": "7875a45173dc4b004d4405514588238919f484deca9840c50eb4039605f1ca9f",
+    "sample_data": false,
+    "size": [
+      1080,
+      1217
     ]
   },
   {
@@ -90,6 +121,7 @@
     "language": "en",
     "bytes": 1653128,
     "sha256": "5f1a73f068d5b75ef641b5584ac13204b82067c62fadba8013a9ae81f589cb84",
+    "sample_data": false,
     "size": [
       1320,
       2466
@@ -98,11 +130,12 @@
   {
     "file": "media/screenshots/en/drive.webp",
     "language": "en",
-    "bytes": 882516,
-    "sha256": "e73ebab3069419a75c9b82ba7cf5844480f55f9f4579a03752902f4cd4e8c443",
+    "bytes": 706476,
+    "sha256": "6e2a3db190b0fdc902a5bb0fc906be8dfff89f8c11a344f04a321d9c1aed3803",
+    "sample_data": false,
     "size": [
-      1320,
-      2868
+      1080,
+      2340
     ]
   },
   {
@@ -110,6 +143,7 @@
     "language": "en",
     "bytes": 10172,
     "sha256": "fda96f1a4234f2458f448b04c9b3a72d2cf14dcb26d9a16d33296eb33b52a98b",
+    "sample_data": false,
     "size": [
       1320,
       1348
@@ -118,11 +152,12 @@
   {
     "file": "media/screenshots/en/focus-start.webp",
     "language": "en",
-    "bytes": 838688,
-    "sha256": "0fae9a5574a8d3e4c50a63aac0a3080b165e192063196e886355f1de93231ba4",
+    "bytes": 735432,
+    "sha256": "6f0dc6d6c0276defd1fae6b0b44998fe0bfa9940be4184b7e3e830b0e071805e",
+    "sample_data": false,
     "size": [
-      1320,
-      1377
+      1080,
+      1217
     ]
   },
   {
@@ -130,9 +165,120 @@
     "language": "en",
     "bytes": 1203370,
     "sha256": "596ed9ae410973ade5c67fd070d35873daaa396a3c37d360906fe23ff69b3602",
+    "sample_data": false,
     "size": [
       1320,
       2151
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-badges.webp",
+    "language": "en",
+    "bytes": 196752,
+    "sha256": "705a586812849c228cb73d300a4853a9a451f6c7ce81e1e578e49afe6c1357ee",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-calendar.webp",
+    "language": "en",
+    "bytes": 195540,
+    "sha256": "14a9c3d2550db798095853555b8cdfd9941e119476dc94fceb2ba0026b54cd71",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-folder-totals.webp",
+    "language": "en",
+    "bytes": 224724,
+    "sha256": "7ae38307bea9aca556683809fbf99dd63806b731c2a35348aada2ad331322162",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-folders.webp",
+    "language": "en",
+    "bytes": 214748,
+    "sha256": "2aa08c660f8c6da8cf81c09dd79fafe32cd57a082e9162884ee320a431741595",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-hours.webp",
+    "language": "en",
+    "bytes": 233524,
+    "sha256": "7c4973122408d1767b855c7ba82e42434ebf590b656a416635e057a0d509feb0",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-lengths.webp",
+    "language": "en",
+    "bytes": 216088,
+    "sha256": "7b3e0e1f7280109504a46d766570a818fe7484b6bf6dec39624de68d2a745baa",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-log.webp",
+    "language": "en",
+    "bytes": 122354,
+    "sha256": "67ae440cc6b1040ddbedc04f78dcd26b7703b7b45497ebebf0c5b5fb7c9d99bb",
+    "sample_data": true,
+    "size": [
+      1080,
+      1930
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-session-detail.webp",
+    "language": "en",
+    "bytes": 85712,
+    "sha256": "85a08163c3d7a448955b68d9b00ba3d2c551569ef1f7c4f37f0febb3ed79da84",
+    "sample_data": true,
+    "size": [
+      1080,
+      1930
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-summary.webp",
+    "language": "en",
+    "bytes": 210902,
+    "sha256": "cad889d03aab4a43c9ee9d7ac99638eb56889739e3b8b75fbec0a0d33cd092d6",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/en/journal-weekday.webp",
+    "language": "en",
+    "bytes": 194504,
+    "sha256": "b65b7981756b17b95af1750cc676d1a8bc99497d9cd3a8c205f4859f69f183ae",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
     ]
   },
   {
@@ -140,9 +286,21 @@
     "language": "en",
     "bytes": 934744,
     "sha256": "5e58e0c10e976b60c03d72159d4f027093eeb96f9c37b1bec620c5d7d1848f6f",
+    "sample_data": false,
     "size": [
       1320,
       1434
+    ]
+  },
+  {
+    "file": "media/screenshots/en/nameplate.webp",
+    "language": "en",
+    "bytes": 730722,
+    "sha256": "db4e3f4509eb83d1d75f5053f1cf91ce8ede698d0e203e3380b85197349e4754",
+    "sample_data": false,
+    "size": [
+      1080,
+      1217
     ]
   },
   {
@@ -150,6 +308,7 @@
     "language": "en",
     "bytes": 549940,
     "sha256": "2ae8d550dd6b1184fbfd61f1e6eb43204cd856cdd962d87bd1b16b1dfbf15238",
+    "sample_data": false,
     "size": [
       1080,
       1920
@@ -158,11 +317,12 @@
   {
     "file": "media/screenshots/en/time-presets.webp",
     "language": "en",
-    "bytes": 1002988,
-    "sha256": "379e3069db9c5fb2de3a7c9ae3eb18690ec4be34ab1c8225ecea085cb8e28635",
+    "bytes": 734958,
+    "sha256": "f2ed05dd8e73dae49887619af21d31f3b6525be4d466a729baebaba11cf0c65e",
+    "sample_data": false,
     "size": [
-      1320,
-      1434
+      1080,
+      1217
     ]
   },
   {
@@ -170,9 +330,43 @@
     "language": "en",
     "bytes": 774238,
     "sha256": "7255c9664a884663642898dc1004a9c63d0294d9ea471cf8a08fc9c1390f14cb",
+    "sample_data": false,
     "size": [
       1320,
       1434
+    ]
+  },
+  {
+    "file": "media/screenshots/en/vehicle.webp",
+    "language": "en",
+    "bytes": 727322,
+    "sha256": "e36a2c2ea81d5b95dda64236a01450da4d06078065a2cd19ce373e6a03d106b4",
+    "sample_data": false,
+    "size": [
+      1080,
+      1217
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/activity.webp",
+    "language": "ja",
+    "bytes": 136668,
+    "sha256": "f4807db560abfe6a666a2ce1af5d015b63f680da050c9b426290964b08d91018",
+    "sample_data": true,
+    "size": [
+      1206,
+      2229
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/avatar.webp",
+    "language": "ja",
+    "bytes": 726054,
+    "sha256": "4a04078982d11fe48a943823aba515c6975fd29b10f4d04dbbd7ba24ff75bba9",
+    "sample_data": false,
+    "size": [
+      1080,
+      1217
     ]
   },
   {
@@ -180,6 +374,7 @@
     "language": "ja",
     "bytes": 1641956,
     "sha256": "d846cf2a0e3896b181a5ab0b61bb252a5433541a3d3202c004c14b94e35de898",
+    "sample_data": false,
     "size": [
       1320,
       2466
@@ -188,11 +383,12 @@
   {
     "file": "media/screenshots/ja/drive.webp",
     "language": "ja",
-    "bytes": 872710,
-    "sha256": "9c79c97c8a461f2df2141b1a2f7a92440b9b1e4342739d240f3a740a397f72cc",
+    "bytes": 620190,
+    "sha256": "426ea940cdff8f72f8c5fc6c0485cfb4a66ef0ed45aef95751059bf592bb6ed6",
+    "sample_data": false,
     "size": [
-      1320,
-      2868
+      1080,
+      2340
     ]
   },
   {
@@ -200,6 +396,7 @@
     "language": "ja",
     "bytes": 6588,
     "sha256": "1fb963ed398924724967769004ec06df59a0ff3032d87507271f48003522fea7",
+    "sample_data": false,
     "size": [
       1320,
       1348
@@ -208,11 +405,12 @@
   {
     "file": "media/screenshots/ja/focus-start.webp",
     "language": "ja",
-    "bytes": 834570,
-    "sha256": "9e606b9e66198956f1d365fc788b856e682ff57bf5e553a308dc8751e6ae1277",
+    "bytes": 729438,
+    "sha256": "96201c3a8e7a334a5ac2a76b80a716a8dca8b3c571ca9b2b33b2fc8c99e44149",
+    "sample_data": false,
     "size": [
-      1320,
-      1377
+      1080,
+      1217
     ]
   },
   {
@@ -220,9 +418,120 @@
     "language": "ja",
     "bytes": 1193334,
     "sha256": "0afdb2a8c1a3f758bc396538a12065f6b63cc16ba64dd56eb756c5ea78dbaae3",
+    "sample_data": false,
     "size": [
       1320,
       2151
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-badges.webp",
+    "language": "ja",
+    "bytes": 164596,
+    "sha256": "acdfbe00883a90735563ddd564bf18429f7b97eb458af03f14a6ff536bf1676d",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-calendar.webp",
+    "language": "ja",
+    "bytes": 158832,
+    "sha256": "0cf9f9f50f0819b3bfb6be7d07016949a3d77fd5d895a42e01b1a5a24938d506",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-folder-totals.webp",
+    "language": "ja",
+    "bytes": 190988,
+    "sha256": "cb0a18709fac61535a9ad175f974675e560c138433141aacce8b9eb4500efe3f",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-folders.webp",
+    "language": "ja",
+    "bytes": 175606,
+    "sha256": "6447c6773151255db9d2cc74407d497deed7d4f904a96c03d0d237383dee7713",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-hours.webp",
+    "language": "ja",
+    "bytes": 205778,
+    "sha256": "13fc1435f4923f56038108d28be203b908fb4b1d9d9c334aaf065724559513b0",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-lengths.webp",
+    "language": "ja",
+    "bytes": 186010,
+    "sha256": "2c22051458744b73b154cf1e0885dda68423ee1901da67ee24b25a623f27fa70",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-log.webp",
+    "language": "ja",
+    "bytes": 91250,
+    "sha256": "94f473f7b62ec60d58a2985b8b567a2586ac6780fd326eab24ec89abd18fc5aa",
+    "sample_data": true,
+    "size": [
+      1080,
+      1930
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-session-detail.webp",
+    "language": "ja",
+    "bytes": 68076,
+    "sha256": "998230e295ee1ac9c1f2e17d8cc2b6ffb4e1295cd63be2ed2b00693a60915fb7",
+    "sample_data": true,
+    "size": [
+      1080,
+      1930
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-summary.webp",
+    "language": "ja",
+    "bytes": 180590,
+    "sha256": "579774b535d59638e61a7400a5c0c2e9b47036d52a9384c3e781f5f9a1094c9d",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/journal-weekday.webp",
+    "language": "ja",
+    "bytes": 176812,
+    "sha256": "10e28645928643071fa725cdf2e70c7afd537083dfa25e5752b691834b6cecbf",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
     ]
   },
   {
@@ -230,9 +539,21 @@
     "language": "ja",
     "bytes": 928444,
     "sha256": "117a78dc6d2bb6328b543d1fa256f1f064fafdead92463e17b3f76d8af2c3384",
+    "sample_data": false,
     "size": [
       1320,
       1434
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/nameplate.webp",
+    "language": "ja",
+    "bytes": 726722,
+    "sha256": "d5b9a0a3412685513cc3e099e116ce149baa699facbbcf80faa77aab33c4ba91",
+    "sample_data": false,
+    "size": [
+      1080,
+      1217
     ]
   },
   {
@@ -240,6 +561,7 @@
     "language": "ja",
     "bytes": 549640,
     "sha256": "1b4ca8cab3d37b3fecb1aa5df98c87872667a2b37dd54c3f4c29c0ee521f09a1",
+    "sample_data": false,
     "size": [
       1080,
       1920
@@ -248,11 +570,12 @@
   {
     "file": "media/screenshots/ja/time-presets.webp",
     "language": "ja",
-    "bytes": 1004370,
-    "sha256": "1dfe1e76ec5f9c889756311ee3dc24687a381165902b2e087b2f410eb3aa7bac",
+    "bytes": 730460,
+    "sha256": "81b2504fc7c6b95509ebd79c9fa7d7117a612b83701ba7b3c5613b9cbf0e2b12",
+    "sample_data": false,
     "size": [
-      1320,
-      1434
+      1080,
+      1217
     ]
   },
   {
@@ -260,9 +583,43 @@
     "language": "ja",
     "bytes": 770420,
     "sha256": "7a09953e13e63cdc1ed6fe8a654f533147e1a8fe9adaebecdbb48fa50b319b4a",
+    "sample_data": false,
     "size": [
       1320,
       1434
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/vehicle.webp",
+    "language": "ja",
+    "bytes": 724610,
+    "sha256": "97dd2b84cf378c4a2c225a6468043d0c35f883de3725c322476cfa3dd9b18b3a",
+    "sample_data": false,
+    "size": [
+      1080,
+      1217
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/activity.webp",
+    "language": "ko",
+    "bytes": 126454,
+    "sha256": "77095a9e54707d2d7fb21b9a269db99335598d6517ffa4957cc1bb830affce1b",
+    "sample_data": true,
+    "size": [
+      1206,
+      2229
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/avatar.webp",
+    "language": "ko",
+    "bytes": 727610,
+    "sha256": "87cc5d2c8e38b551310659c913b02cde2022f0e903b819a11a951965471c131a",
+    "sample_data": false,
+    "size": [
+      1080,
+      1217
     ]
   },
   {
@@ -270,6 +627,7 @@
     "language": "ko",
     "bytes": 1645914,
     "sha256": "80289ae12566f8bc5678b79d2182059d58b60df854bee9599d585b454e605cb1",
+    "sample_data": false,
     "size": [
       1320,
       2466
@@ -278,11 +636,12 @@
   {
     "file": "media/screenshots/ko/drive.webp",
     "language": "ko",
-    "bytes": 854542,
-    "sha256": "4f9c95ee93be31438f696f1b2a632d79a5b87132345bd5f83b4f73a68006c0f9",
+    "bytes": 649420,
+    "sha256": "58da73783a0ecdd9aba3c4f9654bd3aceace02c8b7bf37a596b7c0706e68069b",
+    "sample_data": false,
     "size": [
-      1320,
-      2868
+      1080,
+      2340
     ]
   },
   {
@@ -290,6 +649,7 @@
     "language": "ko",
     "bytes": 12394,
     "sha256": "b145e423e40e103867e92f4675a69ba78f14a7978f61ee8196a4dfc58c8c7e47",
+    "sample_data": false,
     "size": [
       1320,
       1348
@@ -298,11 +658,12 @@
   {
     "file": "media/screenshots/ko/focus-start.webp",
     "language": "ko",
-    "bytes": 788408,
-    "sha256": "fd94a77a572f1df36648f20b26d1c23decf95c2baa5b4db4266f5f95562a13fa",
+    "bytes": 728974,
+    "sha256": "b44a5da33e93209aef3f89d6c5afe6df0b919ddbf12bd30f7c95bb93b89e6f24",
+    "sample_data": false,
     "size": [
-      1320,
-      1377
+      1080,
+      1217
     ]
   },
   {
@@ -310,9 +671,120 @@
     "language": "ko",
     "bytes": 1189936,
     "sha256": "cad3cdca03f007410a1e0f605cf6a351f09ed7b032f4acabf096666e070e330f",
+    "sample_data": false,
     "size": [
       1320,
       2151
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-badges.webp",
+    "language": "ko",
+    "bytes": 162216,
+    "sha256": "35d4f8b0b04a3a3a8cd1e9c1bc5fc8b38388b52c93d73daa81fd3b8e5eb8bd80",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-calendar.webp",
+    "language": "ko",
+    "bytes": 167568,
+    "sha256": "211db34b95f1d572e61a600b6c466d199c5ac1216cd9814b7e195e08d03208d0",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-folder-totals.webp",
+    "language": "ko",
+    "bytes": 185080,
+    "sha256": "43a81de6be2ed05eef04010ad3f4bf5abfe1a0dad4e0ea7433247abec4d438be",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-folders.webp",
+    "language": "ko",
+    "bytes": 177262,
+    "sha256": "a92a6df1dc91286fe1ad01961a0b066afe4cacdf66ccdaf7cbd32274bdb33552",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-hours.webp",
+    "language": "ko",
+    "bytes": 193440,
+    "sha256": "2eb99babdd3acf59edc6fcd3318a9b2d0d45973f4b97768b7b384956ecb1bfac",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-lengths.webp",
+    "language": "ko",
+    "bytes": 181748,
+    "sha256": "0021c406f834ff777c95b4ea38f74fd7bbdd7a03be4ed065fb8777c5d88a2039",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-log.webp",
+    "language": "ko",
+    "bytes": 104596,
+    "sha256": "2e0c772abacebc4a438e61ec4c904e3f79edba6f49daaf4c047aa4f5146a9189",
+    "sample_data": true,
+    "size": [
+      1080,
+      1930
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-session-detail.webp",
+    "language": "ko",
+    "bytes": 73278,
+    "sha256": "dbd89cb0d49429575a488bd73110da777cd68e1bf54db6fdfeb72fc9408bf48d",
+    "sample_data": true,
+    "size": [
+      1080,
+      1930
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-summary.webp",
+    "language": "ko",
+    "bytes": 180128,
+    "sha256": "884c65432e572f233a62d021589582784d42eec30091644642667db21f466678",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/journal-weekday.webp",
+    "language": "ko",
+    "bytes": 170606,
+    "sha256": "8df38f70256012215ae44f137654ba96dcdde66998028cec1c58482c96c67fe4",
+    "sample_data": true,
+    "size": [
+      1206,
+      2163
     ]
   },
   {
@@ -320,9 +792,21 @@
     "language": "ko",
     "bytes": 868542,
     "sha256": "0301cc9dc88b1bf9dd9d710b847f75e2d9745f9a8b40a6b200f4130bdf9d52a0",
+    "sample_data": false,
     "size": [
       1320,
       1434
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/nameplate.webp",
+    "language": "ko",
+    "bytes": 728154,
+    "sha256": "2b0f127a410b0e09f18be2f14e55ec7dab3dd997b8242d06e2cbd52ee72cc6b2",
+    "sample_data": false,
+    "size": [
+      1080,
+      1217
     ]
   },
   {
@@ -330,6 +814,7 @@
     "language": "ko",
     "bytes": 585372,
     "sha256": "2a02a95d4f6988e6e0b6e077f5f4fda1793542f5e1c1ac8afcf19298918478ac",
+    "sample_data": false,
     "size": [
       1080,
       1920
@@ -338,11 +823,12 @@
   {
     "file": "media/screenshots/ko/time-presets.webp",
     "language": "ko",
-    "bytes": 1005736,
-    "sha256": "ff0009a5f8315a93032037226c025c020c85f16d7014720c620450b3d701c6e6",
+    "bytes": 732698,
+    "sha256": "a7974f14c0957626eee7877abff566a808ae929efb4db3af76a7b6f66381de2c",
+    "sample_data": false,
     "size": [
-      1320,
-      1434
+      1080,
+      1217
     ]
   },
   {
@@ -350,9 +836,21 @@
     "language": "ko",
     "bytes": 810922,
     "sha256": "3709d19e582b220846c8a0e2982a2b163ab0fd21b3bfbbbcf1c3240815d211d3",
+    "sample_data": false,
     "size": [
       1320,
       1434
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/vehicle.webp",
+    "language": "ko",
+    "bytes": 725600,
+    "sha256": "1708f5b6a53ac5eb14f2a862b955900daa2d23d70cc70e45635c7086d2307980",
+    "sample_data": false,
+    "size": [
+      1080,
+      1217
     ]
   }
 ]

@@ -1,21 +1,27 @@
 DAYROAD / MEDIA USE
 
-KO: Dayroad 소개 기사·리뷰·블로그·영상에 제공 자료를 사용할 수 있습니다. 권장 출처: Dayroad / Junho Kim. 오해를 만드는 편집, 다른 제품의 자산으로 전용, 단독 재판매, 음악 추출은 허용되지 않습니다. 다른 용도는 문의해 주세요.
-JA: Dayroadを紹介する記事・レビュー・ブログ・動画にご利用いただけます。推奨クレジット：Dayroad / Junho Kim。誤解を招く編集、他製品への転用、素材単独の再販売、音楽抽出は認められません。その他の用途はお問い合わせください。
-EN: For articles, reviews, blogs, and videos covering Dayroad. Suggested credit: Dayroad / Junho Kim. No misleading edits, standalone resale, reuse as assets for another product, or music extraction. Contact us for other uses.
+KO: Dayroad를 소개하는 기사·리뷰·영상·블로그에 제공 자료를 사용할 수 있습니다. 제품명과 화면을 오해하게 바꾸지 말아 주세요. 출처 표기 권장: Dayroad / Junho Kim. 별도 재판매·다른 제품의 자산으로 사용·음악 추출은 허용되지 않습니다. 그 밖의 용도는 문의해 주세요.
+앱 UI는 실제 한국어 실행 화면입니다. 공통 풍경은 함께 사용하며, 기록노트의 수치·활동은 촬영용 샘플입니다. 서로 다른 촬영 장면을 하나의 연속 기록으로 소개하지 마세요. WebP는 원본 픽셀을 보존한 무손실 파일입니다.
+기사·리뷰용 편집 홍보영상입니다. 기록노트의 수치·활동은 촬영용 샘플이며, 일부 장면은 실제 앱 캡처와 메뉴 영상을 조합했습니다. App Store 심사를 통과한 App Preview로 표시하지 마세요.
 
-KO: screenshots/ko, ja, en은 실제 해당 언어의 1.0 앱 화면입니다. common은 조작 UI가 없는 공통 풍경입니다. 일본어 가게 간판은 게임 배경입니다. 일부 화면은 크롭이며, 번역 텍스트를 덧씌우지 않았습니다. 각 화면은 서로 다른 촬영 장면이므로 하나의 연속 기록으로 소개하지 마세요. 원본 화질은 무손실 WebP로 보존했습니다.
-JA: screenshots/ko・ja・enは実際の各言語の1.0アプリ画面です。commonは操作UIを含まない共通風景です。日本語の看板は背景の一部です。一部をトリミングしていますが、文字の上書きはしていません。各画面は別々の撮影で、連続した一回の記録ではありません。WebPは画質を維持した可逆圧縮です。
-EN: screenshots/ko, ja, and en show the actual app running in each language. common contains shared scenery without control UI. Japanese store signs belong to the setting. Some captures are cropped; no interface text is painted over or replaced. These are separate sample sessions, not one continuous record. WebP exports preserve the original pixels with lossless compression.
+JA: Dayroadを紹介する記事・レビュー・動画・ブログにご利用いただけます。製品名や画面を誤解させる改変はお控えください。クレジット推奨：Dayroad / Junho Kim。素材の単独再販売、他製品への転用、音楽の抽出は認められません。その他の用途はお問い合わせください。
+アプリUIは実際の日本語画面です。風景は共通素材で、記録ノートの数値・活動は撮影用サンプルです。別々の撮影を一回の連続した記録として紹介しないでください。WebPは元の画素を保持する可逆圧縮です。
+記事・レビュー向けに編集したプロモーション動画です。記録ノートの数値・活動は撮影用サンプルで、一部の場面は実際のアプリ映像とメニュー映像を組み合わせています。App Store審査を通過したApp Previewとして紹介しないでください。
 
-Source: existing approved marketing captures and unchanged 1.0(5) Simulator capture app; not a recording of the App Store binary. Home 0/20/35 are separately captured stages. Unlocking requires the Stamps for that stage and a manual action. One Stamp does not unlock every stage.
+EN: Use these materials in articles, reviews, videos, and blogs covering Dayroad. Please preserve the product name and avoid misleading edits. Suggested credit: Dayroad / Junho Kim. Standalone resale, reuse as assets for another product, and music extraction are not permitted. Contact us for other uses.
+UI comes from the actual app running in English. Scenery is shared; Focus Journal figures and activities are sample records. Do not present separate captures as one continuous session. WebP exports preserve source pixels with lossless compression.
+Edited promotional films for articles and reviews. Journal figures and activities are samples; some scenes combine real app footage with native menu footage. Do not describe these as App Store-approved App Previews.
 
+Images show native app UI and approved scenery. Crops preserve original pixels; no translated interface text has been painted over. Journal figures are synthetic sample records. Sample scenes and Home stages are separate captures. Manual unlocking requires the Stamps for that stage.
+
+PDFs and videos are separate press-page downloads, not included in this ZIP.
 App Store: https://apps.apple.com/app/id6821862731
 Website: https://junhokimapps.github.io/dayroad-support/
 Contact: junhokim.apps@gmail.com
 
-PDFs and videos are separate downloads on the press page, not included in this ZIP.
-Official videos:
-KO https://junhokimapps.github.io/dayroad-support/assets/preview-ko.mp4
-JA https://junhokimapps.github.io/dayroad-support/assets/preview-ja.mp4
-EN https://junhokimapps.github.io/dayroad-support/assets/preview-en.mp4
+KO product film: https://junhokimapps.github.io/dayroad-support/presskit/videos/Dayroad-Preview-KO.mp4
+KO Focus Journal film: https://junhokimapps.github.io/dayroad-support/presskit/videos/Dayroad-Focus-Journal-KO.mp4
+JA product film: https://junhokimapps.github.io/dayroad-support/presskit/videos/Dayroad-Preview-JA.mp4
+JA Focus Journal film: https://junhokimapps.github.io/dayroad-support/presskit/videos/Dayroad-Focus-Journal-JA.mp4
+EN product film: https://junhokimapps.github.io/dayroad-support/presskit/videos/Dayroad-Preview-EN.mp4
+EN Focus Journal film: https://junhokimapps.github.io/dayroad-support/presskit/videos/Dayroad-Focus-Journal-EN.mp4
