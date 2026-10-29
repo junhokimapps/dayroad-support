@@ -1,0 +1,21 @@
+DAYROAD / MEDIA USE
+
+KO: Dayroad 소개 기사·리뷰·블로그·영상에 제공 자료를 사용할 수 있습니다. 권장 출처: Dayroad / Junho Kim. 오해를 만드는 편집, 다른 제품의 자산으로 전용, 단독 재판매, 음악 추출은 허용되지 않습니다. 다른 용도는 문의해 주세요.
+JA: Dayroadを紹介する記事・レビュー・ブログ・動画にご利用いただけます。推奨クレジット：Dayroad / Junho Kim。誤解を招く編集、他製品への転用、素材単独の再販売、音楽抽出は認められません。その他の用途はお問い合わせください。
+EN: For articles, reviews, blogs, and videos covering Dayroad. Suggested credit: Dayroad / Junho Kim. No misleading edits, standalone resale, reuse as assets for another product, or music extraction. Contact us for other uses.
+
+KO: screenshots/ko, ja, en은 실제 해당 언어의 1.0 앱 화면입니다. common은 조작 UI가 없는 공통 풍경입니다. 일본어 가게 간판은 게임 배경입니다. 일부 화면은 크롭이며, 번역 텍스트를 덧씌우지 않았습니다. 각 화면은 서로 다른 촬영 장면이므로 하나의 연속 기록으로 소개하지 마세요. 원본 화질은 무손실 WebP로 보존했습니다.
+JA: screenshots/ko・ja・enは実際の各言語の1.0アプリ画面です。commonは操作UIを含まない共通風景です。日本語の看板は背景の一部です。一部をトリミングしていますが、文字の上書きはしていません。各画面は別々の撮影で、連続した一回の記録ではありません。WebPは画質を維持した可逆圧縮です。
+EN: screenshots/ko, ja, and en show the actual app running in each language. common contains shared scenery without control UI. Japanese store signs belong to the setting. Some captures are cropped; no interface text is painted over or replaced. These are separate sample sessions, not one continuous record. WebP exports preserve the original pixels with lossless compression.
+
+Source: existing approved marketing captures and unchanged 1.0(5) Simulator capture app; not a recording of the App Store binary. Home 0/20/35 are separately captured stages. Unlocking requires the Stamps for that stage and a manual action. One Stamp does not unlock every stage.
+
+App Store: https://apps.apple.com/app/id6821862731
+Website: https://junhokimapps.github.io/dayroad-support/
+Contact: junhokim.apps@gmail.com
+
+PDFs and videos are separate downloads on the press page, not included in this ZIP.
+Official videos:
+KO https://junhokimapps.github.io/dayroad-support/assets/preview-ko.mp4
+JA https://junhokimapps.github.io/dayroad-support/assets/preview-ja.mp4
+EN https://junhokimapps.github.io/dayroad-support/assets/preview-en.mp4
