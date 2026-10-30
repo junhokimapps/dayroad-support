@@ -12,6 +12,8 @@ EN: Use these materials in articles, reviews, videos, and blogs covering Dayroad
 UI comes from the actual app running in English. Scenery is shared; Focus Journal figures and activities are sample records. Do not present separate captures as one continuous session. WebP exports preserve source pixels with lossless compression.
 Edited promotional films for articles and reviews. Journal figures and activities are samples; some scenes combine real app footage with native menu footage. Do not describe these as App Store-approved App Previews.
 
+Focus Lock sets show FOCUS TIME enabled with 3 apps and 1 category selected. The Korean editor screenshot shows a different set, PLAY TIME (2 apps / 3 categories); it is not the editor for the active Focus Time set. Customization images are reused byte-for-byte from the approved landing V2 assets. Focus Lock images are cropped from the six physical-device screenshots supplied by the developer.
+
 Images show native app UI and approved scenery. Crops preserve original pixels; no translated interface text has been painted over. Journal figures are synthetic sample records. Sample scenes and Home stages are separate captures. Manual unlocking requires the Stamps for that stage.
 
 PDFs and videos are separate press-page downloads, not included in this ZIP.

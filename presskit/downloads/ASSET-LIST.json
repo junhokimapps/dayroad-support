@@ -108,12 +108,12 @@
   {
     "file": "media/screenshots/en/avatar.webp",
     "language": "en",
-    "bytes": 730064,
-    "sha256": "7875a45173dc4b004d4405514588238919f484deca9840c50eb4039605f1ca9f",
+    "bytes": 529532,
+    "sha256": "551c64689147762f7e9da850c7c7dcd838d7329745032f016e52f68d719ff76c",
     "sample_data": false,
     "size": [
-      1080,
-      1217
+      1206,
+      920
     ]
   },
   {
@@ -139,14 +139,25 @@
     ]
   },
   {
-    "file": "media/screenshots/en/focus-lock.webp",
+    "file": "media/screenshots/en/focus-lock-editor.webp",
     "language": "en",
-    "bytes": 10172,
-    "sha256": "fda96f1a4234f2458f448b04c9b3a72d2cf14dcb26d9a16d33296eb33b52a98b",
+    "bytes": 3214,
+    "sha256": "602dd28159220332cadafcef72977ece6c78b098c49c5dbb2e4c2e8acfd7fe57",
     "sample_data": false,
     "size": [
-      1320,
-      1348
+      1065,
+      895
+    ]
+  },
+  {
+    "file": "media/screenshots/en/focus-lock.webp",
+    "language": "en",
+    "bytes": 3398,
+    "sha256": "3cb30a80d2e35d73f6f620a4eec397361f3791bd33028ab89eaf4906f60bca42",
+    "sample_data": false,
+    "size": [
+      1065,
+      625
     ]
   },
   {
@@ -295,12 +306,12 @@
   {
     "file": "media/screenshots/en/nameplate.webp",
     "language": "en",
-    "bytes": 730722,
-    "sha256": "db4e3f4509eb83d1d75f5053f1cf91ce8ede698d0e203e3380b85197349e4754",
+    "bytes": 66012,
+    "sha256": "9267c1a8c8186e49b88fddad059b3c832dfc0879c6e37466ec213fd09804098a",
     "sample_data": false,
     "size": [
-      1080,
-      1217
+      420,
+      320
     ]
   },
   {
@@ -339,12 +350,12 @@
   {
     "file": "media/screenshots/en/vehicle.webp",
     "language": "en",
-    "bytes": 727322,
-    "sha256": "e36a2c2ea81d5b95dda64236a01450da4d06078065a2cd19ce373e6a03d106b4",
+    "bytes": 513572,
+    "sha256": "34ed9c108947b2e205a8da020553fc883285e45cb02eece5ee1864b429800ecc",
     "sample_data": false,
     "size": [
-      1080,
-      1217
+      1206,
+      920
     ]
   },
   {
@@ -361,12 +372,12 @@
   {
     "file": "media/screenshots/ja/avatar.webp",
     "language": "ja",
-    "bytes": 726054,
-    "sha256": "4a04078982d11fe48a943823aba515c6975fd29b10f4d04dbbd7ba24ff75bba9",
+    "bytes": 530722,
+    "sha256": "d2cbb4d76d8ed238c44bf28bf165e94aa4b1d65ce279fc397694102d2baeaf56",
     "sample_data": false,
     "size": [
-      1080,
-      1217
+      1206,
+      920
     ]
   },
   {
@@ -392,14 +403,25 @@
     ]
   },
   {
-    "file": "media/screenshots/ja/focus-lock.webp",
+    "file": "media/screenshots/ja/focus-lock-editor.webp",
     "language": "ja",
-    "bytes": 6588,
-    "sha256": "1fb963ed398924724967769004ec06df59a0ff3032d87507271f48003522fea7",
+    "bytes": 2174,
+    "sha256": "d564580767e6c86c639ea4f9cec313e0a4607dcb39e4dff8686780ac374d3405",
     "sample_data": false,
     "size": [
-      1320,
-      1348
+      1065,
+      895
+    ]
+  },
+  {
+    "file": "media/screenshots/ja/focus-lock.webp",
+    "language": "ja",
+    "bytes": 3394,
+    "sha256": "be1f73584b684bc1e97af619d663f3e3eef5bec522749c201a82aca724722c96",
+    "sample_data": false,
+    "size": [
+      1065,
+      639
     ]
   },
   {
@@ -548,12 +570,12 @@
   {
     "file": "media/screenshots/ja/nameplate.webp",
     "language": "ja",
-    "bytes": 726722,
-    "sha256": "d5b9a0a3412685513cc3e099e116ce149baa699facbbcf80faa77aab33c4ba91",
+    "bytes": 65974,
+    "sha256": "37a192f63e41bee6d81e4f4f42044cc23e6789946bfa0be0f5b7f695fd80e1e3",
     "sample_data": false,
     "size": [
-      1080,
-      1217
+      420,
+      320
     ]
   },
   {
@@ -592,12 +614,12 @@
   {
     "file": "media/screenshots/ja/vehicle.webp",
     "language": "ja",
-    "bytes": 724610,
-    "sha256": "97dd2b84cf378c4a2c225a6468043d0c35f883de3725c322476cfa3dd9b18b3a",
+    "bytes": 511090,
+    "sha256": "28b4746d465fd4d0a6ff220639d3452785ac869ffd86a4a2c0c0fc5415aa8fcf",
     "sample_data": false,
     "size": [
-      1080,
-      1217
+      1206,
+      920
     ]
   },
   {
@@ -614,12 +636,12 @@
   {
     "file": "media/screenshots/ko/avatar.webp",
     "language": "ko",
-    "bytes": 727610,
-    "sha256": "87cc5d2c8e38b551310659c913b02cde2022f0e903b819a11a951965471c131a",
+    "bytes": 531894,
+    "sha256": "f30d634086e93aca1f9a498df870e038b6557cca2c6df10cc1d04021b9f0c96f",
     "sample_data": false,
     "size": [
-      1080,
-      1217
+      1206,
+      920
     ]
   },
   {
@@ -645,14 +667,25 @@
     ]
   },
   {
-    "file": "media/screenshots/ko/focus-lock.webp",
+    "file": "media/screenshots/ko/focus-lock-editor.webp",
     "language": "ko",
-    "bytes": 12394,
-    "sha256": "b145e423e40e103867e92f4675a69ba78f14a7978f61ee8196a4dfc58c8c7e47",
+    "bytes": 3522,
+    "sha256": "90b197176d99f0ee989450cfb974bec15d8c87b077543ce6b982d306d8e67509",
     "sample_data": false,
     "size": [
-      1320,
-      1348
+      1065,
+      895
+    ]
+  },
+  {
+    "file": "media/screenshots/ko/focus-lock.webp",
+    "language": "ko",
+    "bytes": 3990,
+    "sha256": "2e48187d1e116489221e22de12384b08197a86531036295c3dd7f88e7e24121e",
+    "sample_data": false,
+    "size": [
+      1065,
+      625
     ]
   },
   {
@@ -801,12 +834,12 @@
   {
     "file": "media/screenshots/ko/nameplate.webp",
     "language": "ko",
-    "bytes": 728154,
-    "sha256": "2b0f127a410b0e09f18be2f14e55ec7dab3dd997b8242d06e2cbd52ee72cc6b2",
+    "bytes": 65986,
+    "sha256": "f9208632a319ec483ef92d78cd9fab14fa9c7d5dc0eea430b1dec1492b2672f2",
     "sample_data": false,
     "size": [
-      1080,
-      1217
+      420,
+      320
     ]
   },
   {
@@ -845,12 +878,12 @@
   {
     "file": "media/screenshots/ko/vehicle.webp",
     "language": "ko",
-    "bytes": 725600,
-    "sha256": "1708f5b6a53ac5eb14f2a862b955900daa2d23d70cc70e45635c7086d2307980",
+    "bytes": 512640,
+    "sha256": "ccf6400ed4165b590574da63d709cf47b2c23123663765c1f52609bfda28a339",
     "sample_data": false,
     "size": [
-      1080,
-      1217
+      1206,
+      920
     ]
   }
 ]
